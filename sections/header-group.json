@@ -98,20 +98,6 @@
         "suggestions_menu": ""
       }
     },
-    "page_header_logo_banner_DJLpfi": {
-      "type": "page-header-logo-banner",
-      "settings": {
-        "additional_text": "",
-        "button_style": "link",
-        "button_label": "Where skincare Begins",
-        "button_disable_on_mobile": false,
-        "button_link": "",
-        "button_link_in_new_window": false,
-        "color-body-text": "#ffffff",
-        "color-overlay": "#000000",
-        "color-overlay-opacity": 0
-      }
-    },
     "notification_popup_LER4nx": {
       "type": "notification-popup",
       "blocks": {
@@ -161,7 +147,6 @@
   "order": [
     "announcement-bar",
     "header",
-    "page_header_logo_banner_DJLpfi",
     "notification_popup_LER4nx"
   ]
 }
